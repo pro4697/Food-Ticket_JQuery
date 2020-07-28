@@ -8,6 +8,7 @@
 
 ### 기타 라이브러리
 -   JQuery
+-   Simple_html_dom (Web crawling)
 -   Instascan (https://github.com/schmich/instascan)
 -   QRcode (https://github.com/davidshimjs/qrcodejs)
 -   BootPay (https://www.bootpay.co.kr/)
