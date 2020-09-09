@@ -1,6 +1,6 @@
 ![그림](https://user-images.githubusercontent.com/43352126/88694717-dbda1680-d13b-11ea-8a39-9ca14c0e3706.png)
 
-# Food Ticket (2019.03 ~ 10)
+# Food Ticket (2019.11)
 
 ### Preview
 -   https://dong-afoodticket.000webhostapp.com
